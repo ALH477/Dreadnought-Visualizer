@@ -6,8 +6,7 @@
 ║           MOTIVE ANIMUS AWAKENING...  BY IRON AND WILL       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-https://youtu.be/x27h1PCW86k?si=PAALZsAj9pKa-Zk4
+https://github.com/user-attachments/assets/19d66366-17df-4083-a621-434eb2bde28d
 
 A gothic industrial real-time audio visualizer with live JACK/PipeWire input. Oscilloscope, FFT spectrum, stereo Lissajous (XY), 16 color themes, CRT scanlines, phosphor persistence, and beat detection. Rendered via OpenGL vertex arrays — no per-frame Python draw loops.
 
