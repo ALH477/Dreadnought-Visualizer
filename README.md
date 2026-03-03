@@ -7,6 +7,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+https://youtu.be/x27h1PCW86k?si=PAALZsAj9pKa-Zk4
+
 A gothic industrial real-time audio visualizer with live JACK/PipeWire input. Oscilloscope, FFT spectrum, stereo Lissajous (XY), 16 color themes, CRT scanlines, phosphor persistence, and beat detection. Rendered via OpenGL vertex arrays — no per-frame Python draw loops.
 
 Part of the [DeMoD LLC](https://demod.ltd) open source ecosystem. Designed to pair with [DeMoD-Vox](https://github.com/ALH477/DeMoD-Vox) and [ArchibaldOS](https://github.com/ALH477/ArchibaldOS).
